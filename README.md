@@ -68,3 +68,6 @@ Make a Django channel application creating a chatroom and enabling two-way commu
 ![Screenshot 2023-10-10 at 9 49 35 AM](https://github.com/vivekjha1213/django-chat/assets/67068290/f76ceec6-a915-4edc-8468-6d519b28d687)
 
 
+
+
+Testing Url : https://drive.google.com/file/d/1KmRll-GkyoAzqh6hbB1-7-rKqvXC-LRd/view?usp=sharing
