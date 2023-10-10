@@ -61,9 +61,10 @@ Make a Django channel application creating a chatroom and enabling two-way commu
 - Documentation URL:
   - Django Channels Documentation: [https://channels.readthedocs.io/en/latest/installation.html]
  
+  
+ ![Screenshot 2023-10-10 at 9 48 42 AM](https://github.com/vivekjha1213/django-chat/assets/67068290/7db9dbdc-f963-4fe5-b419-8cbf58e9b9db)
 ![Screenshot 2023-10-10 at 9 49 06 AM](https://github.com/vivekjha1213/django-chat/assets/67068290/52f9adac-64e0-4cf9-a907-5de619cf50d5)
 ![Screenshot 2023-10-10 at 9 48 57 AM](https://github.com/vivekjha1213/django-chat/assets/67068290/7e7a75a3-4f2e-4673-8c04-1bf81fcda22f)
-![Screenshot 2023-10-10 at 9 48 42 AM](https://github.com/vivekjha1213/django-chat/assets/67068290/7db9dbdc-f963-4fe5-b419-8cbf58e9b9db)
 ![Screenshot 2023-10-10 at 9 49 35 AM](https://github.com/vivekjha1213/django-chat/assets/67068290/f76ceec6-a915-4edc-8468-6d519b28d687)
 
 
