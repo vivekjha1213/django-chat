@@ -1,4 +1,6 @@
-# django-chat
+# Chat360-Assignment
+Task:
+Make a Django channel application creating a chatroom and enabling two-way communication.
 
 
 
